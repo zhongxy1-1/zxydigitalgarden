@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/a-ifinance/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","permalink":"/AIfinance/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 obsidian://open?vault=obsidian&file=AIfinance%2F%E8%AF%A6%E6%83%85%2FA1
